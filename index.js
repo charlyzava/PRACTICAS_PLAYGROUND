@@ -19,6 +19,12 @@ function primeraPalabra(oracion){
 }
 console.log(primeraPalabra("La vida pasa rápido, disfrútala"));*/
 function ultimaPalabra(oracion){
+    let palabra = "";
+    let array = [];
+    for (i=0; i < oracion.length; i++){
+        if (oracion[i]===" "){
 
+        }
+    }
 }
 //otra cosa
