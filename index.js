@@ -19,5 +19,6 @@ function primeraPalabra(oracion){
 }
 console.log(primeraPalabra("La vida pasa rápido, disfrútala"));*/
 function ultimaPalabra(oracion){
-    
+
 }
+//otra cosa
